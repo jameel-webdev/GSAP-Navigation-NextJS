@@ -70,7 +70,7 @@ const Menu = () => {
               <Link href={"/"}>NextJS x GASP</Link>
             </div>
             <div className="menu-close" onClick={toggleMenu}>
-              <Link>Close</Link>
+              <Link href={"#"}>Close</Link>
             </div>
           </div>
 
