@@ -1,8 +1,8 @@
-export default function Home() {
+export default function About() {
   return (
     <div className="page-content hero">
       <h1>
-        Index <sup>(01)</sup>
+        About <sup>(03)</sup>
       </h1>
     </div>
   );

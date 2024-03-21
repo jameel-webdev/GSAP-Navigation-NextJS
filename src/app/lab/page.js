@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Lab() {
   return (
     <div className="page-content hero">
       <h1>
-        Index <sup>(01)</sup>
+        Lab <sup>(05)</sup>
       </h1>
     </div>
   );

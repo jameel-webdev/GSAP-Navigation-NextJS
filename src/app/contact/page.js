@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Contact() {
   return (
     <div className="page-content hero">
       <h1>
-        Index <sup>(01)</sup>
+        Contact <sup>(04)</sup>
       </h1>
     </div>
   );
